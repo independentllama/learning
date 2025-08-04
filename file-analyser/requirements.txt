@@ -1,0 +1,7 @@
+sentence-transformers~=5.0.0
+faiss-cpu~=1.11.0.post1
+PyPDF2~=3.0.1
+transformers~=4.54.1
+torch
+numpy~=2.3.0
+scikit-learn
